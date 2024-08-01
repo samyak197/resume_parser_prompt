@@ -1,0 +1,84 @@
+{
+  "Contact Information": {
+    "Name": "Samyak Nahar",
+    "Email": "samyaknahar004@gmail.com",
+    "Phone": "+91 8080319065",
+    "GitHub": "https://www.github.com/samyak197",
+    "LinkedIn": "https://www.linkedin.com/in/samyak-nahar-4b0b7b22a/"
+  },
+  "Profile": "Pursuing a B.Tech in Artificial Intelligence & Data Science at VIIT. Passionate about AI, with practical experience in NLP and Computer Vision. Possess a strong understanding of the mathematics behind AI. Seeking an internship in ML, NLP, or Computer Vision.",
+  "Skills": {
+    "Core Languages": ["C++", "Python", "C"],
+    "Machine Learning": ["TensorFlow", "CNN", "Image Processing", "OpenCV", "NLP", "LLM"],
+    "Web Dev": ["HTML & CSS", "JavaScript", "Django", "React", "MySQL"]
+  },
+  "Education": [
+    {
+      "Institution": "VIIT COLLEGE OF ENGINEERING",
+      "Degree": "B.Tech in Artificial Intelligence & Data Science",
+      "CGPA": "8.23",
+      "Year": "2021 - 2025"
+    },
+    {
+      "Institution": "JAIN FATTECHAND",
+      "Degree": "12TH",
+      "Percentage": "81.67%",
+      "Year": "2019 - 2021"
+    },
+    {
+      "Institution": "VIDYA NIKETAN",
+      "Degree": "10TH",
+      "Percentage": "78.20%",
+      "Year": "2009 - 2019"
+    }
+  ],
+  "Extracurricular Activities": [
+    "Participated at SIH (Smart India Hackathon)",
+    "Participated at NASA Hackathon"
+  ],
+  "Hobbies": [
+    "Exploring cool Python libraries",
+    "Playing Chess, Football",
+    "Gym"
+  ],
+  "Certifications/Courses": [
+    "TensorFlow - Udemy",
+    "PyTorch - Udemy",
+    "Computer Vision - Udemy",
+    "OpenCV - Udemy",
+    "Web-Dev - Udemy",
+    "Django - Django docs"
+  ],
+  "Experience": [
+    {
+      "Role": "Intern",
+      "Company": "Millennium Semiconductors",
+      "Duration": "FEB 2023 - JULY 2023",
+      "Responsibilities": [
+        "Led backend development project and collaborated with senior engineers.",
+        "Proficiently worked with Large Language Models (LLMs) for integration.",
+        "Optimized algorithms to significantly improve search efficiency and data retrieval.",
+        "Streamlined data gathering from various APIs.",
+        "Received appreciation from the leads for effectively integrating Large Language Models (LLMs) to enhance application functionalities."
+      ],
+      "Tech Used": "LLMs, TensorFlow, API, React, Django, JavaScript, HTML, CSS"
+    }
+  ],
+  "Projects": [
+    {
+      "Name": "Chat with LLM using pdf and SQL Database in Natural Language",
+      "Description": "Developed a system using LLM (in this case Gemini) for three functionalities:\n1) Chat with an LLM\n2) Querying PDF, Text documents\n3) Natural Language queries on an SQL database + LLM.",
+      "Tech Stack": "Python, LLM (Gemini), Embeddings, LangChain, React, Django"
+    },
+    {
+      "Name": "Real-Time Binary Classification + Gesture control",
+      "Description": "Created a tool that uses a webcam to collect data and instantly train a CNN model to classify objects.\nThis tool learns from the data it collects, improving its identification capabilities over time.\nIntegrated a Django web app for real-time object classification alongside gesture control features, allowing users to adjust volume and brightness with simple hand gestures.",
+      "Tech Stack": "CNN, OpenCV, Python, JavaScript, Django, React"
+    },
+    {
+      "Name": "MakeMore: Text Generation with RNNs",
+      "Description": "Developed a character-level recurrent neural network (RNN) inspired by Andrej Karpathy's MakeMore series to generate text sequences.\nImplemented various RNN architectures, including LSTM and GRU, to experiment with different sequence modelling capabilities.\nTrained the models on diverse text datasets, optimizing hyperparameters to improve text generation quality.\nApplied Backpropagation in Neural Networks from Scratch.",
+      "Tech Stack": "Python, PyTorch, Numpy"
+    }
+  ]
+}
