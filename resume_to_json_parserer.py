@@ -4,7 +4,7 @@ import json
 import PyPDF2
 
 # Configuration for Google API key
-GOOGLE_API_KEY = "AIzaSyB5XLKf8Kg5uYk1EBMjjPVzk4G99MSCkpQ"
+GOOGLE_API_KEY = "aIzaSyB5XLKf8Kg5uYk1EBMjjPVzk4G99MSCkpQ09"
 os.environ["GOOGLE_API_KEY"] = GOOGLE_API_KEY
 genai.configure(api_key=GOOGLE_API_KEY)
 
